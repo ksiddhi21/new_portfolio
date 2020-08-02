@@ -3,9 +3,9 @@
 set -e
 
 # TODO: Set to URL of git repo.
-PROJECT_GIT_URL='https://github.com/CHANGEME.git'
+PROJECT_GIT_URL='https://github.com/ksiddhi21/new_portfolio.git'
 
-PROJECT_BASE_PATH='/usr/local/apps/profiles-rest-api'
+PROJECT_BASE_PATH='/usr/local/apps/new_portfolio'
 
 echo "Installing dependencies..."
 apt-get update
